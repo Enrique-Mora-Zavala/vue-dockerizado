@@ -8,7 +8,7 @@ import { RouterLink, RouterView } from 'vue-router'
 
   <nav>
     <RouterLink to="/" class="link"><button>Home</button></RouterLink>
-    <RouterLink to="/about" class="link"><button>about</button></RouterLink>
+    <RouterLink to="/about" class="link"><button>About</button></RouterLink>
   </nav>
   </header>
 
